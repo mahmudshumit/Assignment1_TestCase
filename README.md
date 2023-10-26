@@ -7,7 +7,7 @@ Generate Test Case only for Name, Email,Mobile, Password and Confirm Password
 
 SRS for that:
 
-Name: Only Accepts Nameber
+Name: Only Accepts Name
 
 Email: Valid Email
 
